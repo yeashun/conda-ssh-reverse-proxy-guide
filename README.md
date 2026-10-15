@@ -1,4 +1,5 @@
 # 实验室 Linux 服务器无法联网？利用 Windows Clash Verge + SSH 反向代理解决 Conda 环境创建失败问题（完整实战）
+(着急的话直接看 第五节操作)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/70ea66e7bc2b4120b80a911d3cc42d78.png)
 
 ## 一、问题背景
